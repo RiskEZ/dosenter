@@ -2,15 +2,15 @@ First clone the files
 
 git clone https://github.com/RiskEZ/dosenter/
 
-Second install the required files by 
+Second install the required files by typing this into cmd / terminal
 
-"pip install -r requirements.txt"
+pip install -r requirements.txt
 
-and then run the file by
+and then run the file by typing this
 
-"python dosenter.py"
+python dosenter.py
 
-without the "" typed
+
 
 ** WARNING **
 FOR PENETRATION TEST ONLY
