@@ -1,5 +1,7 @@
+First clone the files
+git clone https://github.com/RiskEZ/dosenter/
 
-First install the required files by 
+Second install the required files by 
 "pip install -r requirements.txt"
 
 and then run the file by
